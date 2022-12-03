@@ -4,7 +4,7 @@
 - 📫 How to reach me scott.boston@yahoo.com
 
 🐍 + 🐼 = ❤️  
-I answer question about the pandas, data analysis library on Stack Overflow.  
+I answer question about pandas the Python data analysis library on Stack Overflow.  
 https://stackoverflow.com/users/6361531/scott-boston?tab=profile
 
 <!---
