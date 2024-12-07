@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Scott Boston, Python Data Engineer
 - 👀 I’m interested in data analysis using python 
-- 🌱 I’m currently learning time series analysis
+- 🌱 I'm growing and learning all things data engineering
 - 📫 How to reach me scott.boston@yahoo.com
 
 🐍 + 🐼 = ❤️  
